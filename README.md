@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-debashis&label=Profile%20views&color=0e75b6&style=flat" alt="mr-debashis" /> </p>
 
-- 💬 Ask me about **GIS Development, GIS & Remote Sensing**
+- 💬 Ask me about **Web GIS Development, GIS & Remote Sensing**
 
 - 📫 How to reach me **debashispatra0992@gmail.com**
 
